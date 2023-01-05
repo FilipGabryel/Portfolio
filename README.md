@@ -37,3 +37,7 @@ I would like to share here my skills and experience in tools gained from persona
 # My bug reports
 
 # Blogs I read
++ [testerzy.pl](https://testerzy.pl)
++ [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl)
++ [softwaretestinghelp.com](https://www.softwaretestinghelp.com)
++ [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
