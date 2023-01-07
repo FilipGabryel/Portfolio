@@ -4,8 +4,7 @@
 + [Skills](Skills)
 + [Tools](Tools)
 + [Courses and Certificates](Courses-and-Certificates)
-+ [My test cases](My-test-cases)
-+ [My bug reports](My-bug-reports)
++ [My work](My-work)
 + [Blogs read](Blogs-read)
 
 # About me
