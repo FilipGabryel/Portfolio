@@ -1,6 +1,5 @@
 # Portfolio
 
-# Table of contents
 + [About me](About-me)
 + [Skills](Skills)
 + [Tools](Tools)
@@ -22,19 +21,21 @@ I would like to share here my skills and experience in tools gained from persona
 + Exploratory testing of web and mobile applications
 
 # Tools
-+ **Jira**
-+ **Testlink**
-+ **Postman**
-+ **GitHub**
+#### **Jira**   
+ + Know how to create bug reports
+#### **TestLink**   
++ Know how to create test cases, test suits and test plans   
++ Able to execute created test cases
+#### **Postman**
+#### **Git**
 
 # Courses and Certificates
-+ [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/certificate/UC-71fd7403-60ec-4414-899c-d3d783957a4e/)
++ [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/certificate/UC-71fd7403-60ec-4414-899c-d3d783957a4e/)     
 + [EF SET English Certificate 89/100 (C2 Proficient)](https://www.efset.org/cert/a5CfQW)
 + Kurs Selenium Java od podstaw (in progress)
++ uTest Academy
 
-# My test cases
-
-# My bug reports
+# Examples of my work
 
 # Blogs read
 + [testerzy.pl](https://testerzy.pl)
