@@ -35,7 +35,16 @@ I would like to share here my skills and experience in tools gained from persona
 + Kurs Selenium Java od podstaw (in progress)
 + uTest Academy
 
-# Examples of my work
+# My work
+
+#### Test case example made for skleptest.pl
++ [Screenshot from TestLink](https://drive.google.com/file/d/1b3Cc_5XIVNDoVhGUXKxaq2stN-Hitv3Y/view?usp=sharing)
+
+#### Bug reports in Jira made for skleptest.pl
++ [Several found bugs](https://drive.google.com/file/d/1wWWpYikrcft48NfUBQwJgiGhvGR8T0_S/view?usp=sharing)
++ [Bug report example](https://drive.google.com/file/d/11OQN0j9uTilPvXyn-LqIOKu55FyM2e4I/view?usp=sharing)
+
+
 
 # Blogs read
 + [testerzy.pl](https://testerzy.pl)
