@@ -41,7 +41,7 @@ I would like to share here my skills and experience in tools gained from persona
 
 #### Bug reports in Jira made for skleptest.pl
 + [Several found bugs](https://drive.google.com/file/d/1wWWpYikrcft48NfUBQwJgiGhvGR8T0_S/view?usp=sharing)
-+ [Bug report example](https://drive.google.com/file/d/11OQN0j9uTilPvXyn-LqIOKu55FyM2e4I/view?usp=sharing)
++ [Bug report example](https://drive.google.com/file/d/13vJzkBe9GqU69ODmctHlTsLndHYeX3cN/view?usp=sharing)
 
 
 
