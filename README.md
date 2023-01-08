@@ -37,7 +37,7 @@ I would like to share here my skills and experience in tools gained from persona
 # My work
 
 #### Test case example made for skleptest.pl
-+ [Screenshot from TestLink](https://drive.google.com/file/d/1xHErcgzHFJXfl-sTyIiem7pAODzLBW19/view?usp=sharing)
++ [Screenshot from TestLink](https://drive.google.com/file/d/14DcSRyGMhqqXn-Hn_goSE8FC97PEll18/view?usp=sharing)
 
 #### Bug reports in Jira made for skleptest.pl
 + [Several found bugs](https://drive.google.com/file/d/1wWWpYikrcft48NfUBQwJgiGhvGR8T0_S/view?usp=sharing)
