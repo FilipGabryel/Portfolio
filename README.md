@@ -15,18 +15,20 @@ I would like to share here my skills and experience in tools gained from persona
 # Skills
 + **SQL**
 + Creating **bug reports** 
-+ Writing and executing **test cases**
++ Writing **test cases** and **scenarios**
 + Performing functional testing
++ Writing test plans
 + Exploratory testing of web and mobile applications
 
 # Tools
 #### **Jira**   
  + Know how to create bug reports
 #### **TestLink**   
-+ Know how to create test cases, test suits and test plans   
++ Know how to create test cases, test suites and test plans   
 + Able to execute created test cases
 #### **Postman**
 #### **Git**
+#### **MS SQL**
 
 # Courses and Certificates
 + [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/certificate/UC-71fd7403-60ec-4414-899c-d3d783957a4e/)     
