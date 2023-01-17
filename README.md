@@ -1,11 +1,11 @@
 # Portfolio
 
-+ [About me](About-me)
-+ [Skills](Skills)
-+ [Tools](Tools)
-+ [Courses and Certificates](Courses-and-Certificates)
-+ [My work](My-work)
-+ [Blogs read](Blogs-read)
++ [About me](https://github.com/FilipGabryel/Portfolio#About-me)
++ [Skills](https://github.com/FilipGabryel/Portfolio#Skills)
++ [Tools](https://github.com/FilipGabryel/Portfolio#Tools)
++ [Courses and Certificates](https://github.com/FilipGabryel/Portfolio#Courses-and-Certificates)
++ [My work](https://github.com/FilipGabryel/Portfolio#My-work)
++ [Blogs read](https://github.com/FilipGabryel/Portfolio#Blogs-read)
 
 # About me
 My name is Filip Gabryel. I am interested in software testing with strong desire to learn and develop. Ocasionally doing projects for utest.com. I'm looking for a job as Software Tester that will allow me to spread wings in this industry.
