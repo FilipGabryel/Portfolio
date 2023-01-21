@@ -22,10 +22,7 @@ I would like to share here my skills and experience in tools gained from persona
 
 # Tools
 #### **Jira**   
- + Know how to create bug reports
 #### **TestLink**   
-+ Know how to create test cases, test suites and test plans   
-+ Able to execute created test cases
 #### **Postman**
 #### **Git**
 #### **MS SQL**
