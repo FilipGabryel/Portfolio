@@ -5,7 +5,7 @@
 + [Tools](https://github.com/FilipGabryel/Portfolio#Tools)
 + [Courses and Certificates](https://github.com/FilipGabryel/Portfolio#Courses-and-Certificates)
 + [My work](https://github.com/FilipGabryel/Portfolio#My-work)
-+ [Blogs read](https://github.com/FilipGabryel/Portfolio#Blogs-read)
+
 
 # About me
 My name is Filip Gabryel. I am interested in software testing with strong desire to learn and develop. Ocasionally doing projects for utest.com. I'm looking for a job as Software Tester that will allow me to spread wings in this industry.
@@ -17,12 +17,12 @@ I would like to share here my skills and experience in tools gained from persona
 + Creating **bug reports** 
 + Writing **test cases** and **scenarios**
 + Performing functional testing
-+ Writing test plans
++ API testing using Postman 
 + Exploratory testing of web and mobile applications
 
 # Tools
 #### **Jira**   
-#### **TestLink**   
+#### **TestLink**, **TestRail**
 #### **Postman**
 #### **Git**
 #### **MS SQL**
@@ -35,18 +35,11 @@ I would like to share here my skills and experience in tools gained from persona
 
 # My work
 
-#### Test case example made for skleptest.pl
-+ [Screenshot from TestLink](https://drive.google.com/file/d/14DcSRyGMhqqXn-Hn_goSE8FC97PEll18/view?usp=sharing)
+#### Test cases and bug reports were made for Guru99 Bank V4 (https://demo.guru99.com/V4/index.php)
++ [Test cases made in TestRail](https://drive.google.com/file/d/1katKe5DwwGqISmMnZD3uQYOp8o8Orw5k/view?usp=sharing)
++ [Test case example](https://drive.google.com/file/d/19wThxZbJl0W5R-VHX-0rt3NYwlJOapjA/view?usp=sharing)
++ [Executed test run in TestRail](https://drive.google.com/file/d/105VOBZBzf68eQ1I5fAAUeie-pHuc6Rm6/view?usp=sharing)
++ [Several found bugs](https://drive.google.com/file/d/1UJKeYjnJTP5oQySF-Kp55mMMohR4KUwp/view?usp=sharing)
++ [Bug report example](https://drive.google.com/file/d/1lW1WtS36d-TTCTz3D8tDt8MeBC2cvYQJ/view?usp=sharing)
 
-#### Bug reports in Jira made for skleptest.pl
-+ [Several found bugs](https://drive.google.com/file/d/1wWWpYikrcft48NfUBQwJgiGhvGR8T0_S/view?usp=sharing)
-+ [Bug report example](https://drive.google.com/file/d/13vJzkBe9GqU69ODmctHlTsLndHYeX3cN/view?usp=sharing)
 
-
-
-# Blogs read
-+ [testerzy.pl](https://testerzy.pl)
-+ [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl)
-+ [softwaretestinghelp.com](https://www.softwaretestinghelp.com)
-+ [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
-+ [guru99.com](https://www.guru99.com)
