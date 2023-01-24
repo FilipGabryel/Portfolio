@@ -17,7 +17,7 @@ I would like to share here my skills and experience in tools gained from persona
 + Creating **bug reports** 
 + Writing **test cases** and **scenarios**
 + Performing functional testing
-+ API testing using Postman 
++ API testing  
 + Exploratory testing of web and mobile applications
 
 # Tools
