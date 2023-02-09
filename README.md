@@ -40,7 +40,7 @@ I would like to share here my skills and experience in tools gained from persona
 # Courses and Certificates
 + [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/certificate/UC-71fd7403-60ec-4414-899c-d3d783957a4e/)     
 + [EF SET English Certificate 89/100 (C2 Proficient)](https://www.efset.org/cert/a5CfQW)
-+ Kurs Selenium Java od podstaw (in progress)
++ Kurs Selenium Java od podstaw 
 + uTest Academy
 
 
