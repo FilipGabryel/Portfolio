@@ -1,17 +1,4 @@
-# Portfolio
 
-+ [About me](https://github.com/FilipGabryel/Portfolio#About-me)
-+ [My work](https://github.com/FilipGabryel/Portfolio#My-work)
-+ [Skills](https://github.com/FilipGabryel/Portfolio#Skills)
-+ [Tools](https://github.com/FilipGabryel/Portfolio#Tools)
-+ [Courses and Certificates](https://github.com/FilipGabryel/Portfolio#Courses-and-Certificates)
-
-
-
-# About me
-My name is Filip Gabryel. I am interested in software testing with strong desire to learn and develop. Ocasionally doing projects for utest.com. I'm looking for a job as Software Tester that will allow me to spread wings in this industry.
-
-I would like to share here my skills and experience in tools gained from personal study and reaserches.
 
 # My work
 
@@ -22,26 +9,8 @@ I would like to share here my skills and experience in tools gained from persona
 + [Several found bugs](https://drive.google.com/file/d/1UJKeYjnJTP5oQySF-Kp55mMMohR4KUwp/view?usp=sharing)
 + [Bug report example](https://drive.google.com/file/d/1lW1WtS36d-TTCTz3D8tDt8MeBC2cvYQJ/view?usp=sharing)
 
-# Skills
-+ **SQL**
-+ Creating **bug reports** 
-+ Writing **test cases** and **scenarios**
-+ Performing functional testing
-+ API testing  
-+ Exploratory testing of web and mobile applications
 
-# Tools
-#### **Jira**   
-#### **TestLink**, **TestRail**
-#### **Postman**
-#### **Git**
-#### **MS SQL**
 
-# Courses and Certificates
-+ [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/certificate/UC-71fd7403-60ec-4414-899c-d3d783957a4e/)     
-+ [EF SET English Certificate 89/100 (C2 Proficient)](https://www.efset.org/cert/a5CfQW)
-+ Kurs Selenium Java od podstaw 
-+ uTest Academy
 
 
 
