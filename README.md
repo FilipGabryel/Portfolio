@@ -10,6 +10,8 @@
 + [Bug report example](https://drive.google.com/file/d/1lW1WtS36d-TTCTz3D8tDt8MeBC2cvYQJ/view?usp=sharing)
 
 
+![case](https://drive.google.com/uc?export=view&id=1katKe5DwwGqISmMnZD3uQYOp8o8Orw5k)
+
 
 
 
