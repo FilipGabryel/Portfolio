@@ -9,6 +9,7 @@
 + [Several found bugs](https://drive.google.com/file/d/1UJKeYjnJTP5oQySF-Kp55mMMohR4KUwp/view?usp=sharing)
 + [Bug report example](https://drive.google.com/file/d/1lW1WtS36d-TTCTz3D8tDt8MeBC2cvYQJ/view?usp=sharing)
 
+<a href="https://drive.google.com/uc?export=view&id=<FILEID>"><img src="[https://drive.google.com/uc?export=view&id=<FILEID>](https://drive.google.com/file/d/1katKe5DwwGqISmMnZD3uQYOp8o8Orw5k/view?usp=sharing)" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
 
 
